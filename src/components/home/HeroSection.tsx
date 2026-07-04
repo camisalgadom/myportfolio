@@ -21,7 +21,7 @@ export default function HeroSection() {
       </div>
       <div className="text-center mt-8 flex flex-col items-center justify-center">
         <h1 className="text-4xl font-extrabold text-gray-900 dark:text-white mb-2 tracking-tight drop-shadow-lg">
-          Ignacio Quevedo
+          Camila Salgado
         </h1>
         <p className="text-blue-600 dark:text-blue-400 text-xl font-semibold mb-2">
           Software Engineer
