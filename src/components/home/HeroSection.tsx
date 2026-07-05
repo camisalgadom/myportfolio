@@ -27,8 +27,7 @@ export default function HeroSection() {
           Cloud Practitioner & DevOps | AWS & Oracle Cloud (OCI) Certified
         </p>
         <p className="text-gray-700 dark:text-gray-300 text-lg max-w-flex mb-4">
-          Passionate for the Tecnologies | Python | AI | OCI | Data Analyst | Science Computing |
-          Software Engineer | Machine Learning | Data Science |
+          something
         </p>
         <p className="italic text-md text-gray-500 dark:text-gray-400 mt-2">
           &quot;Driving cloud efficiency&quot;

@@ -28,49 +28,48 @@ const AboutSection: React.FC = () => {
             <div className="space-y-6 text-gray-700 dark:text-gray-300">
               <p className="text-lg">
                 <span className="text-gray-800 dark:text-gray-200">
-                  Hello everyone, my name is{' '}
+                  Hello, my name is{' '}
                 </span>
                 <span className="font-bold text-blue-600 dark:text-blue-400">Ignacio Quevedo</span>
-                <span className="text-gray-800 dark:text-gray-200"> but you can call me </span>
-                <span className="font-semibold">Nacho</span>
-                <span className="text-gray-800 dark:text-gray-200"> or </span>
-                <span className="font-semibold">Nasus</span>.
+                <span className="text-gray-800 dark:text-gray-200"> </span>
+                <span className="font-semibold"></span>
+                <span className="text-gray-800 dark:text-gray-200"> </span>
+                <span className="font-semibold"></span>.
               </p>
 
               <p>
-                I&apos;m a <span className="font-semibold">Software Engineer</span> with a love for
+                I&apos;m a <span className="font-semibold">Cloud Administrator</span> with a love for
                 technology and continuous learning. I&apos;m specialize in{' '}
                 <span className="font-semibold">
                   Data Analyst, Scientific Computing, Machine Learning, Deep Learning, AI and Cloud
                   and Python
                 </span>
                 , creating innovative solutions that enhance user experiences and drive business
-                success.
+                success. EDITTT
               </p>
 
               <p>
-                At the moment, I continue to improve my skills in{' '}
-                <span className="font-semibold">Python</span>,{' '}
-                <span className="font-semibold">Data Analyst</span>,{' '}
-                <span className="font-semibold">Scientific Computing</span>,{' '}
-                <span className="font-semibold">Machine Learning</span>,{' '}
-                <span className="font-semibold">Deep Learning</span>,{' '}
-                <span className="font-semibold">Multicloud</span>,{' '}
-                <span className="font-semibold">AI</span> and{' '}
-                <span className="font-semibold">Cloud</span>. This new technologies open new
-                opportunities for me to create innovative solutions.
+                I come from a healthcare background, where I learned that precision and strict adherence to protocols are non-negotiable. 
+                I apply this same analytical discipline today to transform complex infrastructures into robust, secure, and efficient architectures. 
+                My approach is not merely technical; it is human-centric and focused on solving real-world problems.
               </p>
 
               <p>
-                My principal motivation for learning new technologies is to stay at the forefront of
-                the industry. This, complemented with certifications in technologies of vanguard
-                they form me to be a better professional.
+                Technical Capabilities QUE QUEDE AQUI MAS ABAJITO
+                AWS & OCI: Expert in deployment and management (EC2, S3, IAM, VPC, RDS). 
+                
+                Automation: Scripting in Python (Pandas) and Bash for operational optimization.
+                
+                Innovation: Specialized in Generative AI models (Amazon Bedrock).
+
+                Certifications: Oracle Cloud Infrastructure (Architect Associate, AI, Data Platform) and AWS Database@AWS Certified Architect Professional. 
+
               </p>
 
               <p>
-                I believe in the power of <span className="font-semibold">collaboration</span> and
-                am always looking for opportunities to work on exciting projects that challenge my
-                skills and expand my knowledge.
+                Beyond the Code QUE QUEDE AQUI MAS ABAJITO
+                I stand out for my communication skills, resilience, and methodical thinking. 
+                Outside of technology, I practice artisanal bookbinding and high-discipline physical training—two hobbies that have honed my patience, attention to detail, and ability to tackle complex challenges with determination.
               </p>
               <p className="italic text-md text-gray-500 dark:text-gray-400 mt-2">
                 &quot;Small steps create big progress&quot;
