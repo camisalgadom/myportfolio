@@ -22,38 +22,32 @@ export const skillsData = [
   {
     title: 'Programming Languages',
     skills: [
-      createSkill('TypeScript', 'https://www.typescriptlang.org'),
-      createSkill('JavaScript', 'https://www.javascript.com'),
       createSkill('Python', 'https://www.python.org', true),
-      createSkill('Java', 'https://www.java.com'),
-      createSkill('HTML', 'https://www.html.com'),
-      createSkill('CSS', 'https://www.css.com'),
-      createSkill('Sass', 'https://sass-lang.com'),
     ],
   },
   {
-    title: 'Frontend Development',
+    title: 'Infra',
     skills: [
-      createSkill('React', 'https://reactjs.org'),
-      createSkill('React Native', 'https://reactnative.dev'),
-      createSkill('Next.js', 'https://nextjs.org'),
-      createSkill('Tailwind', 'https://tailwindcss.com'),
+      createSkill('AWS Lambda', 'https://docs.aws.amazon.com/es_es/lambda/latest/dg/welcome.html'),
+      createSkill('Amazon EC2', 'https://nextjs.org'),
+      createSkill('ELB', 'https://reactnative.dev'),
+      createSkill('Amazon VPC', 'https://nextjs.org'),
+      createSkill('Amazon Route53', 'https://tailwindcss.com'),
     ],
   },
   {
-    title: 'Backend Development',
+    title: 'Security',
     skills: [
-      createSkill('Node.js', 'https://nodejs.org'),
-      createSkill('Django', 'https://www.djangoproject.com', true),
-      createSkill('FastAPI', 'https://fastapi.tiangolo.com', true),
+      createSkill('Amazon IAM', 'https://nodejs.org', true),
+      createSkill('Amazon KMS', 'https://www.djangoproject.com'),
     ],
   },
   {
     title: 'Databases',
     skills: [
-      createSkill('MongoDB', 'https://www.mongodb.com'),
+      createSkill('Amazon DynamoDB', 'https://www.mysql.com'),
+      createSkill('Amazon RDS', 'https://www.oracle.com', true),
       createSkill('MySQL', 'https://www.mysql.com'),
-      createSkill('PostgreSQL', 'https://www.postgresql.org'),
       createSkill('OCI', 'https://www.oracle.com', true),
     ],
   },
@@ -61,33 +55,20 @@ export const skillsData = [
     title: 'DevOps & Cloud',
     skills: [
       createSkill('Docker', 'https://www.docker.com'),
-      createSkill('AWS', 'https://aws.amazon.com'),
-      createSkill('Microsoft Azure', 'https://azure.microsoft.com'),
       createSkill('Terraform', 'https://www.terraform.io'),
     ],
   },
   {
     title: 'Data Science & Analytics',
     skills: [
-      createSkill('NumPy', 'https://numpy.org', true),
       createSkill('Pandas', 'https://pandas.pydata.org', true),
-      createSkill('Matplotlib', 'https://matplotlib.org', true),
-      createSkill('Seaborn', 'https://seaborn.pydata.org', true),
-      createSkill('Jupyter', 'https://jupyter.org', true),
-      createSkill('Anaconda', 'https://www.anaconda.com', true),
+
     ],
   },
   {
     title: 'Tools & Platforms',
     skills: [
-      createSkill('Git', 'https://git-scm.com'),
       createSkill('GitHub', 'https://github.com', true),
-      createSkill('GitLab', 'https://gitlab.com'),
-      createSkill('Bitbucket', 'https://bitbucket.org'),
-      createSkill('Jira', 'https://www.atlassian.com/software/jira'),
-      createSkill('Postman', 'https://www.postman.com'),
-      createSkill('Google Workspace', 'https://workspace.google.com'),
-      createSkill('AI', 'https://www.google.com/ai', true),
     ],
   },
 ];

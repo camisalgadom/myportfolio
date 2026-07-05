@@ -43,7 +43,7 @@ const ContactSection: React.FC = () => {
                   <div>
                     <h4 className="font-semibold text-gray-800 dark:text-gray-200">Email</h4>
                     <p className="text-blue-600 dark:text-blue-400 hover:underline transition-colors duration-200">
-                      nasus.informatic.engineering@gmail.com
+                      camilasalgadom.contacto@gmail.com
                     </p>
                   </div>
                 </div>
@@ -54,7 +54,7 @@ const ContactSection: React.FC = () => {
                   </h4>
                   <div className="flex space-x-6">
                     <a
-                      href="https://www.linkedin.com/in/ignacio-quevedo-a71841248/"
+                      href="https://www.linkedin.com/in/salgadocamila99/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="p-3 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors duration-200"
@@ -63,7 +63,7 @@ const ContactSection: React.FC = () => {
                       <SiLinkedin size={24} />
                     </a>
                     <a
-                      href="https://github.com/NasusReformed"
+                      href="https://github.com/camisalgadom"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="p-3 rounded-lg bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors duration-200"

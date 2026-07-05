@@ -29,58 +29,38 @@ const getImagePath = (skillName: string): string => {
   // Map skill names to their corresponding image filenames
   const imageMap: Record<string, string> = {
     // Programming Languages
-    TypeScript: 'typescript.svg',
-    JavaScript: 'javascript-1.svg',
     Python: 'python-5.svg',
-    Java: 'java.svg',
-    HTML: 'html-1.svg',
-    CSS: 'css-3.svg',
-    Sass: 'sass-1.svg',
 
-    // Frontend
-    React: 'react-2.svg',
-    'React Native': 'react-2.svg',
-    'Next.js': 'Next.js.svg',
-    Tailwind: 'tailwind-css-2.svg',
-
-    // Backend
-    'Node.js': 'nodejs-icon.svg',
-    Django: 'django.svg',
-    FastAPI: 'fastapi-1.svg',
+    // Amazon Web Services
+    // Infra
+    'Amazon EC2':'ec2.svg',
+    'AWS Lambda': 'lambda.svg',
+     ELB:'elb.svg',
+    'Amazon VPC': 'vpc.svg',
+    'Amazon Route53': 'route 53.svg',
 
     // Databases
-    MongoDB: 'mongodb-icon-1.svg',
+    'Amazon DynamoDB': 'dynamodb.svg',
+    'Amazon RDS': 'amazon RDS.svg',
+
+    // Security
+    'Amazon IAM': 'iam.svg',
+    'Amazon KMS': 'aws kms.svg',
+
+
+    // Databases
     MySQL: 'mysql-logo-pure.svg',
-    PostgreSQL: 'postgresql.svg',
     OCI: 'oracle-corporation-logo.svg',
 
     // DevOps & Cloud
     Docker: 'docker-4.svg',
-    AWS: 'aws-2.svg',
-    'Microsoft Azure': 'azure-2.svg',
     Terraform: 'terraform.svg',
 
     // Version Control
-    Git: 'git-icon.svg',
     GitHub: 'github-icon-1.svg',
-    GitLab: 'gitlab.svg',
-    Bitbucket: 'bitbucket-icon.svg',
-
-    // Tools & IDEs
-    Jira: 'jira-1.svg',
-    Postman: 'postman.svg',
-    Jupyter: 'jupyter.svg',
-    AI: 'AI logo.svg',
 
     // Data Science
-    NumPy: 'numpy-1.svg',
     Pandas: 'pandas.svg',
-    Matplotlib: 'matplotlib-1.svg',
-    Seaborn: 'seaborn-1.svg',
-    Anaconda: 'Anaconda.svg',
-
-    // Productivity
-    'Google Workspace': 'google.svg',
   };
 
   // Use type assertion to ensure TypeScript knows we're handling the undefined case
