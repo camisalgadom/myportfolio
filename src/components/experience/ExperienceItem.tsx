@@ -2,36 +2,27 @@ import React from 'react';
 
 export const experienceData: Experience[] = [
   {
-    role: 'Software Engineer I',
-    company: 'Axmos Technologies',
-    period: 'Jul 2024 - Dec 2024',
+    role: 'Trainee Cloud Administrator',
+    company: 'Generation Chile & AWS re/Start',
+    period: 'Apr 2026 - Jul 2026',
     description: [
-      'Developed and maintained features for a SaaS web application',
-      'Maintained, updated, optimized and implemented new features for the web application',
-      'Collaborated with UX/UI designers to implement responsive and user-friendly interfaces.',
+      'Linux system administration (commands, permissions, processes, scripting)',
+      'AWS services: EC2, S3, IAM, VPC, CloudWatch, RDS',
+      'Fundamentals of networking, security, and access control',
+      'Basic automation with Bash and AWS resource deployment',
+      'Cloud operational best practices and a culture of continuous improvement',
     ],
     technologies: [
-      'React',
-      'TypeScript',
-      'Node.js',
-      'JavaScript',
-      'SCSS',
-      'Gemini',
-      'Postman',
-      'Jira',
-      'Bitbucket',
+      'Python',
+      'Linux',
+      'EC2',
+      'S3',
+      'IAM',
+      'VPC',
+      'CloudWatch',
+      'RDS',
+      'Lambda',
     ],
-  },
-  {
-    role: 'Trainee',
-    company: 'Axmos Technologies',
-    period: 'May 2024 - Jul 2024',
-    description: [
-      'Developed and maintained AppSheet Apps',
-      'Worked in an Agile team to deliver high-quality AppSheet Apps on a bi-weekly sprint cycle.',
-      'Wrote unit and integration tests to maintain a high level of AppSheet Apps coverage.',
-    ],
-    technologies: ['AppSheet', 'Google Workspace', 'JavaScript'],
   },
 ];
 
