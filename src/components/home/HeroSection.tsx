@@ -24,14 +24,14 @@ export default function HeroSection() {
           Camila Salgado
         </h1>
         <p className="text-blue-600 dark:text-blue-400 text-xl font-semibold mb-2">
-          Software Engineer
+          Cloud Practitioner & DevOps | AWS & Oracle Cloud (OCI) Certified
         </p>
         <p className="text-gray-700 dark:text-gray-300 text-lg max-w-flex mb-4">
           Passionate for the Tecnologies | Python | AI | OCI | Data Analyst | Science Computing |
           Software Engineer | Machine Learning | Data Science |
         </p>
         <p className="italic text-md text-gray-500 dark:text-gray-400 mt-2">
-          &quot;If you can dream it, I can create it&quot;
+          &quot;Driving cloud efficiency&quot;
         </p>
         <div className="flex gap-4 mt-6 justify-center">
           <a
