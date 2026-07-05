@@ -28,25 +28,25 @@ export const skillsData = [
   {
     title: 'Infra',
     skills: [
-      createSkill('AWS Lambda', 'https://docs.aws.amazon.com/es_es/lambda/latest/dg/welcome.html'),
-      createSkill('Amazon EC2', 'https://nextjs.org'),
-      createSkill('ELB', 'https://reactnative.dev'),
-      createSkill('Amazon VPC', 'https://nextjs.org'),
-      createSkill('Amazon Route53', 'https://tailwindcss.com'),
+      createSkill('AWS Lambda', 'https://aws.amazon.com/es/lambda/?nc2=type_a'),
+      createSkill('Amazon EC2', 'https://aws.amazon.com/es/ec2/?nc2=type_a'),
+      createSkill('ELB', 'https://aws.amazon.com/es/elasticloadbalancing/'),
+      createSkill('Amazon VPC', 'https://aws.amazon.com/es/vpc/?nc2=type_a'),
+      createSkill('Amazon Route53', 'https://aws.amazon.com/es/route53/?nc2=type_a'),
     ],
   },
   {
     title: 'Security',
     skills: [
-      createSkill('Amazon IAM', 'https://nodejs.org', true),
-      createSkill('Amazon KMS', 'https://www.djangoproject.com'),
+      createSkill('Amazon IAM', 'https://aws.amazon.com/es/iam/?nc2=type_a', true),
+      createSkill('Amazon KMS', 'https://aws.amazon.com/es/kms/?nc2=type_a'),
     ],
   },
   {
     title: 'Databases',
     skills: [
-      createSkill('Amazon DynamoDB', 'https://www.mysql.com'),
-      createSkill('Amazon RDS', 'https://www.oracle.com', true),
+      createSkill('Amazon DynamoDB', 'https://aws.amazon.com/es/dynamodb/?nc2=type_a'),
+      createSkill('Amazon RDS', 'https://aws.amazon.com/es/rds/?nc2=type_a', true),
       createSkill('MySQL', 'https://www.mysql.com'),
       createSkill('OCI', 'https://www.oracle.com', true),
     ],
